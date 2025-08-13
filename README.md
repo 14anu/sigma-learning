@@ -1,6 +1,3 @@
-# sigma-learning
-Tracking my progress in the Sigma Web Development Course
-
 # Sigma Web Development Course 💻🌐
 
 Tracking my journey through the [Sigma Web Development Course by CodeWithHarry](https://www.codewithharry.com/videos/web-dev-1/) to learn full-stack development from scratch.
