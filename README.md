@@ -30,7 +30,6 @@ The course covers:
 ## 📁 Repository Contents
 - `progress.md` – Detailed progress tracking
 - Code files and small projects from the course
-- Notes from each topic
 
 ---
 
