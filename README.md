@@ -6,7 +6,14 @@ Tracking my journey through the [Sigma Web Development Course by CodeWithHarry](
 
 ## 📅 Progress Overview
 - Total: 139 videos
+## 📅 Progress Overview
+- **Course 1:** Foundations of Cybersecurity ✅ Completed  
+  - Completion Date: 13 Aug 2025  
+  - [View Certificate](certificates/c1.pdf)  
+- **Course 2:** Play it Safe: Manage Security Risks – 🚀 In Progress  
+- **Courses 3–9:** Not started yet
 
+---
 ---
 
 ## 📊 Course Structure
