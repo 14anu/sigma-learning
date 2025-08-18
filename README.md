@@ -1,6 +1,6 @@
 # Sigma Web Development Course 💻🌐
 
-Tracking my journey through the [Sigma Web Development Course by CodeWithHarry](https://www.codewithharry.com/videos/web-dev-1/) to learn full-stack development from scratch.
+Tracking my journey through the [Sigma Web Development Course by CodeWithHarry](https://www.youtube.com/watch?v=tVzUXW6siu0&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w) to learn full-stack development from scratch.
 
 ---
 
