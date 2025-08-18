@@ -5,7 +5,7 @@ Tracking my journey through the [Sigma Web Development Course by CodeWithHarry](
 ---
 
 ## 📅 Progress Overview
-- Total: 139 videos
+Total: 139 videos
 
 - Video 1: Installing VS Code & How Websites Work ✅ Completed
 - Video 2: First HTML Website ✅ Completed
