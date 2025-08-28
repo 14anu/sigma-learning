@@ -14,3 +14,11 @@
 
 ## Overall Progress
 - 5 / 139 videos completed
+
+## 28 August 2025
+- Video 6: ✅ Completed (SEO and Core Web Vitals in HTML)
+- Video 7: ✅ Completed (Forms and input tags in HTML)
+- Video 8: ✅ Completed (Inline & Block Elements in HTML)
+
+## Overall Progress
+- 8 / 139 videos completed
