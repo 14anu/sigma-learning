@@ -12,9 +12,12 @@ Total: 139 videos
 - Video 3: Basic Structure of an HTML Website ✅ Completed
 - Video 4: Heading, Paragraphs and Links ✅ Completed
 - Video 5: Image, Lists, and Tables in HTML ✅ Completed
+- Video 6: SEO and Core Web Vitals in HTML ✅ Completed
+- Video 7: Forms and input tags in HTML ✅ Completed
+- Video 8: Inline & Block Elements in HTML ✅ Completed
 
 ## Overall Progress
-- 5 / 139 videos completed
+- 8 / 139 videos completed
 ---
 
 ## 📊 Course Structure
